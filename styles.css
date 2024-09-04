@@ -99,6 +99,10 @@ p {
         margin-bottom: 6.1rem;
     }
 
+    .card {
+        width: 33.33%;
+    }
+
     .card-1 {
         border-radius: 10px 0 0 10px;
     }
